@@ -1,0 +1,25 @@
+{
+    "name": "tom/sitemap",
+    "description": "获取站点地图,生成百度站点地图。生成百度移动sitemap",
+    "type": "library",
+    "require": {
+        "jaeger/querylist": "^4.2",
+        "psr/log": "^1.1",
+        "monolog/monolog": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tom\\Sitemap\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "19js",
+            "email": "1069447298@qq.com"
+        }
+    ],
+    "scripts": {
+        "test": "php index.php"
+    }
+}
