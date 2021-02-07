@@ -1,5 +1,5 @@
 {
-    "name": "tom/sitemap",
+    "name": "19js/sitemap",
     "description": "获取站点地图,生成百度站点地图。生成百度移动sitemap",
     "type": "library",
     "require": {
